@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Factor.cpp" />
     <ClCompile Include="line.cpp" />
     <ClCompile Include="Parking.cpp" />
   </ItemGroup>
